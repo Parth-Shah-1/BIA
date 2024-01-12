@@ -11,9 +11,13 @@ Installation
 
 1. Open a Command Prompt window as an Administrator.
 2. Install the required Python libraries by executing the following commands:
+   
    pip install flask
+   
    pip install flask-restful
+   
    pip install flask-sqlalchemy
+   
 These commands will install Flask, a micro web framework for Python, Flask-RESTful for building REST APIs easily, and Flask-SQLAlchemy which is an extension for Flask that adds support for SQLAlchemy.
 
 Running the Tasks
